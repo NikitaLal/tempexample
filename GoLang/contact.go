@@ -8,5 +8,6 @@ func main() {
 	fmt.Println(:nikita)
 	fmt.Println('dddddwadwq')
 	fmt.Println('ghhg')
+	fmt.Println('ghhg')
 }
 }

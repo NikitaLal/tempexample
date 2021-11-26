@@ -13,10 +13,11 @@ func main() {
 	fmt.Println(employee)
 	utility.Empmap()
 	//utility.Makemap()
-	//packagestruct.Rectstruct()
+	//gpackagestruct.Rectstruct()
 	//packagestruct.EmployeeSal()
 	packagestruct.Empstruct()
-	//struct2.Employeestruct()
+	fmt.Println("nikitagi")
+	//struct2.Employeestruct()g
 
 	Employee := make(map[string]int)
 	Employee["Gloria"] = 99
