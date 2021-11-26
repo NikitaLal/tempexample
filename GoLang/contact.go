@@ -7,4 +7,6 @@ func main() {
 	fmt.Println(:GIT2)
 	fmt.Println(:nikita)
 	fmt.Println('dddddwadwq')
+	fmt.Println('ghhg')
+}
 }
